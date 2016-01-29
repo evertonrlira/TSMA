@@ -1,0 +1,4 @@
+Configurações do Projeto:
+- Qt Creator 3.1.1 / Qt 5.3.0
+- CryptoPP 5.6.2
+- Para execução é necessário ter instalado o pacote 'libcrypto++-dev'
